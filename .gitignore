@@ -1,0 +1,4 @@
+.vscode
+cp-docker-images
+*.env3
+*node_modules

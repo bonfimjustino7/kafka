@@ -2,8 +2,8 @@
 
 ## Tecnologias
 
-    - Docker + Docker-compose
-    - Apache Kafka
-    - Apache Zookeeper
-    - python
-    - node
+- Docker + Docker-compose
+- Apache Kafka
+- Apache Zookeeper
+- python
+- node
